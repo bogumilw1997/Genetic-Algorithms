@@ -1,0 +1,14 @@
+{
+    "data_path":"../data/owid-covid-data.csv",
+    "test_range":14,
+    "sigma_0":0.01,
+    "mi":20,
+    "lambda":140,
+    "c_d":0.82,
+    "c_e":1.22,
+    "k":2,
+    "max_sigma":0.3,
+    "min_sigma":1e-8,
+    "predictions":21,
+    "generations":6
+}
